@@ -1,0 +1,12 @@
+streamlit
+langchain-chroma
+langchain-google-genai
+pypdfium2
+google-genai
+langchain-text-splitters
+pandas
+matplotlib
+numpy
+transformers
+pysqlite3-binary
+chromadb
